@@ -1,5 +1,5 @@
 # Comment-Toxicity-Detection
-This project is to develop a deep learning-based comment toxicity model using Python. Develop LSTM, CNN &amp; BERT models to analyze user comments and predict the likelihood of each comment being toxic which helps to take appropriate actions to mitigate the negative impact of toxic behavior.
+This project is to develop a deep learning-based comment toxicity model using Python. Explore Deep learning models such as LSTM, CNN to analyze user comments and predict the likelihood of each comment being toxic which helps to take appropriate actions to mitigate the negative impact of toxic behavior.
 
 ### Problem Statement:
 Online communities and social media platforms have become integral parts of modern communication, facilitating interactions and discussions on various topics. However, the prevalence of toxic comments, which include harassment, hate speech, and offensive language, poses significant challenges to maintaining healthy and constructive online discourse. To address this issue, there is a pressing need for automated systems capable of detecting and flagging toxic comments in real-time.
